@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "package": "cn.caizuan.chengyunotebook",
-  "version": "1.3.5",
-  "versionCode": 12,
-  "url": "https://cdn.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.3.5/chengyu-notebook-1.3.5.apk",
-  "sha256": "c05a521e2632f5a98c15ccd84b3010b051c0e07d4cab12369e7737de7c284b40",
-  "size": 418654,
+  "version": "1.3.6",
+  "versionCode": 13,
+  "url": "https://cdn.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.3.6/chengyu-notebook-1.3.6.apk",
+  "sha256": "23901ecf7007c94483eda53fd34e90cc4e822a8bbac9b4e006b5763410425807",
+  "size": 422750,
   "notes": [
-    "批量填充可选择 100、200、300 或自定义数量，安卓本机每批最多 1000 条。",
-    "默认同时生成 10 个成语，可调整为 1–20 个，完成一条立即补位。",
-    "显示正在生成与等待数量，支持暂停、调整并发、续填和失败重试。",
-    "保留双模型复核、全表去重、人工修改保护及原笔记和设置。"
+    "修复旧任务已暂停或尚未开始时，100、200、300 和自定义数量仍全部灰色的问题。",
+    "暂停后可按所选数量开始新批次，替换剩余待办队列并保留已有笔记和人工修改。",
+    "在数量附近显示当前任务状态和暂停、续填入口，正在生成的内容保存完成后再开始新批次。",
+    "保留 1–20 个成语并行生成、双模型复核、全表去重及原账号和设置。"
   ]
 }
