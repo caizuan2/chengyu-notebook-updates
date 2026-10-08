@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
   "package": "cn.caizuan.chengyunotebook",
-  "version": "1.4.0",
-  "versionCode": 14,
-  "url": "https://fastly.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.4.0-code14/chengyu-notebook-1.4.0.apk",
-  "sha256": "0eb99ea543db5d98b1d3cee5376a67de609821ced933fc99aecd7de383a1087a",
-  "size": 447326,
+  "version": "1.4.1",
+  "versionCode": 15,
+  "url": "https://fastly.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.4.1/chengyu-notebook-1.4.1.apk",
+  "sha256": "bb32b88d8415da74a3ce12ece2bd119031a73ab4cd2164b828ad5ea9078c5c2a",
+  "size": 1012574,
   "notes": [
-    "新增表达训练：按 A/B/C/D 学习优先级及六类生活场景筛选成语，提供精选入门示例。",
-    "支持 300 个试筛、自定义数量及全词库分类；DeepSeek 与豆包独立分类，分歧保留为待核验。",
-    "每轮可练 5 或 10 个，查看自然例句、普通说法、使用边界，并保存自己的表达练习。",
-    "分类队列可暂停、续筛、重试；云模式支持训练缓存及离线练习回放，保留原笔记与学习状态。",
-    "精选示例不等于已完成双模型筛选；全部 30,884 词目仍可浏览，使用频率待语料核验。"
+    "全库30,884个候选词目已内置A/B/C/D初步分层，在成语表直接查看，无需启动分类任务。",
+    "新增只读使用等级、适用场景两列，支持六类表达场景和等级筛选，点击词条可查看分类依据。",
+    "撤下表达训练入口；分类结果随APK离线使用，保留原笔记、近反义词关联及掌握程度。",
+    "公共释义辅助初筛；D暂缓学习包含证据不足与词形疑点，并分别说明原因，不等于判定不适用。不代表全库逐词双模型或词频验证。"
   ]
 }
