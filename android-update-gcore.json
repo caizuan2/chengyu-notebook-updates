@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "package": "cn.caizuan.chengyunotebook",
+  "version": "1.3.4",
+  "versionCode": 11,
+  "url": "https://gcore.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.3.4/chengyu-notebook-1.3.4.apk",
+  "sha256": "3f2531b244ad5ee0648fc60f1a0bf61e51667045544f74390fbd056df11c5a71",
+  "size": 418654,
+  "notes": [
+    "更新检查遇到临时服务错误或连接中断时，最多自动尝试三次。",
+    "更新失败显示具体 HTTP 状态及实际更新地址，便于定位问题。",
+    "保留原笔记、设置与强制更新提醒，使用原签名覆盖升级。"
+  ]
+}
