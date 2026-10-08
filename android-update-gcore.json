@@ -1,15 +1,16 @@
 {
   "schemaVersion": 1,
   "package": "cn.caizuan.chengyunotebook",
-  "version": "1.3.6",
-  "versionCode": 13,
-  "url": "https://gcore.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.3.6/chengyu-notebook-1.3.6.apk",
-  "sha256": "23901ecf7007c94483eda53fd34e90cc4e822a8bbac9b4e006b5763410425807",
-  "size": 422750,
+  "version": "1.4.0",
+  "versionCode": 14,
+  "url": "https://gcore.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.4.0-code14/chengyu-notebook-1.4.0.apk",
+  "sha256": "0eb99ea543db5d98b1d3cee5376a67de609821ced933fc99aecd7de383a1087a",
+  "size": 447326,
   "notes": [
-    "修复旧任务已暂停或尚未开始时，100、200、300 和自定义数量仍全部灰色的问题。",
-    "暂停后可按所选数量开始新批次，替换剩余待办队列并保留已有笔记和人工修改。",
-    "在数量附近显示当前任务状态和暂停、续填入口，正在生成的内容保存完成后再开始新批次。",
-    "保留 1–20 个成语并行生成、双模型复核、全表去重及原账号和设置。"
+    "新增表达训练：按 A/B/C/D 学习优先级及六类生活场景筛选成语，提供精选入门示例。",
+    "支持 300 个试筛、自定义数量及全词库分类；DeepSeek 与豆包独立分类，分歧保留为待核验。",
+    "每轮可练 5 或 10 个，查看自然例句、普通说法、使用边界，并保存自己的表达练习。",
+    "分类队列可暂停、续筛、重试；云模式支持训练缓存及离线练习回放，保留原笔记与学习状态。",
+    "精选示例不等于已完成双模型筛选；全部 30,884 词目仍可浏览，使用频率待语料核验。"
   ]
 }
