@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "package": "cn.caizuan.chengyunotebook",
-  "version": "1.4.1",
-  "versionCode": 15,
-  "url": "https://cdn.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.4.1/chengyu-notebook-1.4.1.apk",
-  "sha256": "bb32b88d8415da74a3ce12ece2bd119031a73ab4cd2164b828ad5ea9078c5c2a",
-  "size": 1012574,
+  "version": "1.4.2",
+  "versionCode": 16,
+  "url": "https://cdn.jsdelivr.net/gh/caizuan2/chengyu-notebook-updates@v1.4.2/chengyu-notebook-1.4.2.apk",
+  "sha256": "0a82ec33085884e9cd4ee02e5bad87dacd50389a3978381632d3670798194d28",
+  "size": 1016670,
   "notes": [
-    "全库30,884个候选词目已内置A/B/C/D初步分层，在成语表直接查看，无需启动分类任务。",
-    "新增只读使用等级、适用场景两列，支持六类表达场景和等级筛选，点击词条可查看分类依据。",
-    "撤下表达训练入口；分类结果随APK离线使用，保留原笔记、近反义词关联及掌握程度。",
-    "公共释义辅助初筛；D暂缓学习包含证据不足与词形疑点，并分别说明原因，不等于判定不适用。不代表全库逐词双模型或词频验证。"
+    "修复手机目录向下滑动：统计、分类筛选和表格可整体上下滚动，表格仍支持左右查列。",
+    "修复小屏和横屏表格被上方信息挤压的问题，保留可访问的底部分页。",
+    "批量填充新增A/B/C/D等级和六类场景选择，按所选全库范围去重后生成，支持200、300、自定义数量及全部。",
+    "保留原账号、笔记与掌握程度；词库仍为30,884个候选，现有分类是初筛，待核验标记保留。"
   ]
 }
